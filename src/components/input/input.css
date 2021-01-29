@@ -1,0 +1,21 @@
+.input_container {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  margin-right: 1em;
+  padding: 0.2em;
+  width: 50%;
+  font-size: 1.3em;
+}
+
+.input_-btn {
+  color: skyblue;
+  font-size: 1.5em;
+  transition: color 200ms ease-in ;
+}
+
+.input_-btn:hover {
+  color: blue;
+}

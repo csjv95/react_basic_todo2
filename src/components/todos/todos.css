@@ -1,0 +1,16 @@
+.list {
+  padding: 0 1em;
+}
+
+.item {
+  display: flex;
+  justify-content:flex-start;
+}
+
+.list_icon{
+  padding-right: 0.5em;
+  color: skyblue;
+}
+
+
+
